@@ -136,7 +136,7 @@ public class NumberTriangle {
             line = br.readLine();
         }
         br.close();
-        //return top;
+        return top;
     }
 
     public static void main(String[] args) throws IOException {
